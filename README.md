@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MFMGC: A Multi-Modal Data Fusion Model for Movie Genre Classification
 
 This repository contains the source code of MFMGC and the way of obtaining the dataset MovieBricks.
@@ -36,3 +37,6 @@ python train.py --model_name mymodel --modals summary
 
 ## Results
 
+=======
+# MFMGC
+>>>>>>> 36268a28cd10567c543bbf3134384a28a2a0a084
